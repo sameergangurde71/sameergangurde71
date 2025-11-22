@@ -5,16 +5,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameergangurde71/sameergangurde71/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/sameergangurde71/sameergangurde71/output/snake.svg" alt="snake animation"/>
-  </picture>
-</p>
-
----
-
 ## 🌸 About Me  
 - 🎓 CSE Student  
 - ☕ Passionate about Java & Advanced Java  
@@ -43,10 +33,7 @@
 
 ---
 
-## 🧩 LeetCode Stats  
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/sameergangurde71?theme=light&font=Georgia&ext=activity" alt="LeetCode Stats" />
-</div>
+
 
 ---
 
