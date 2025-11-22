@@ -1,49 +1,73 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&duration=3000&pause=1000&width=600&center=true&vCenter=true&background=45,F3C5FF,B6E0FF,C1FFD7,FFFAC8&color=FF5733&color2=33FFBD&color3=339BFF&color4=DA33FF&lines=Hey+I+am+Sameer+👋;CSE+Student+%7C+Java+%7C+DevOps;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=3000&pause=1000&width=700&center=true&vCenter=true&background=45,F3C5FF,B6E0FF,C1FFD7,FFFAC8&color=FF5733&color2=33FFBD&color3=339BFF&color4=DA33FF&lines=Hey+I'm+Sameer+👋;Java+Developer+%7C+DevOps+Learner;Welcome+to+my+GitHub+Profile!" />
 </div>
-
 
 ---
 
 ## 🐍 GitHub Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameergangurde71/sameergangurde71/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/sameergangurde71/sameergangurde71/output/snake.svg" alt="snake animation"/>
+  </picture>
+</p>
 
-![snake gif](https://raw.githubusercontent.com/sameergangurde71/sameergangurde71/output/snake.svg)
+---
 
 ## 🌸 About Me  
 - 🎓 CSE Student  
-- ☕ Love Java & Advanced Java  
+- ☕ Passionate about Java & Advanced Java  
 - ⚙️ Learning DevOps (Docker, Kubernetes, AWS)  
-- 🌱 Trying to become 1% better every day  
-- 💡 I enjoy building things that solve real-life problems  
+- 🌱 Improving 1% every single day  
+- 💡 Love solving real-life problems through code  
 
 ---
 
 ## 🎨 Technical Skills
 
 ### 🖥️ **Languages**
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=light" />
 </div>
 
 ### ⚙️ **DevOps & Tools**
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws&theme=light" />
 </div>
 
 ### 🛠️ **Web & Database**
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql&theme=light" />
 </div>
 
-###  **Leetcode**
-<div>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=sameergangurde71" alt="LeetCode Badges" />
-</div>
+---
 
+## 🧩 LeetCode Stats  
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/sameergangurde71?theme=light&font=Georgia&ext=activity" alt="LeetCode Stats" />
+</div>
 
 ---
 
+## 📊 GitHub Stats (Auto Theme)
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=sameergangurde71&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sameergangurde71&show_icons=true&theme=calm&hide_border=true" />
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sameergangurde71&layout=compact&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameergangurde71&layout=compact&theme=calm&hide_border=true" />
+  </picture>
+</div>
+
+---
 
 ## 🪴 Soft Skills  
 - ✨ Problem Solving  
@@ -65,6 +89,6 @@
 <div align="center">
   
 ### 🌼 *Thank you for visiting!*  
-*Have a beautiful day ✨*
+✨ *Have a beautiful day!* ✨
 
 </div>
