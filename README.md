@@ -6,6 +6,10 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/sameergangurde71/sameergangurde71/output/snake.svg)
+
 ## 🌸 About Me  
 - 🎓 CSE Student  
 - ☕ Love Java & Advanced Java  
