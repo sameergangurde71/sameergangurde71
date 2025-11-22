@@ -14,7 +14,7 @@
 
 ---
 
-## 🎨 Aesthetic Skills
+## 🎨 Technical Skills
 
 ### 🖥️ **Languages**
 <div>
@@ -33,15 +33,6 @@
 
 ---
 
-## 🌿 GitHub Stats (Aesthetic)
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=calm&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=calm&hide_border=true" />
-
-</div>
-
----
 
 ## 🪴 Soft Skills  
 - ✨ Problem Solving  
