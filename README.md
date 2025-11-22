@@ -1,7 +1,8 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&duration=3500&pause=1000&color=5F9EA0&center=true&vCenter=true&width=500&lines=Hey+I+am+Sameer+👋;CSE+Student+%7C+Java+%7C+DevOps;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&duration=3000&pause=1000&width=600&center=true&vCenter=true&background=45,F3C5FF,B6E0FF,C1FFD7,FFFAC8&color=FF5733&color2=33FFBD&color3=339BFF&color4=DA33FF&lines=Hey+I+am+Sameer+👋;CSE+Student+%7C+Java+%7C+DevOps;Welcome+to+my+GitHub+Profile!" />
 </div>
+
 
 ---
 
