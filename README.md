@@ -1,20 +1,68 @@
-## 🚀 Skills
+<!-- Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&duration=3500&pause=1000&color=5F9EA0&center=true&vCenter=true&width=500&lines=Hey+I+am+Sameer+👋;CSE+Student+%7C+Java+%7C+DevOps;Welcome+to+my+GitHub+Profile!" />
+</div>
 
-### 🖥️ Programming Languages
-![Java](https://img.shields.io/badge/Java-0175C2?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🌸 About Me  
+- 🎓 CSE Student  
+- ☕ Love Java & Advanced Java  
+- ⚙️ Learning DevOps (Docker, Kubernetes, AWS)  
+- 🌱 Trying to become 1% better every day  
+- 💡 I enjoy building things that solve real-life problems  
 
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+---
 
-### 💡 Other Skills
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🎨 Aesthetic Skills
+
+### 🖥️ **Languages**
+<div>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=light" />
+</div>
+
+### ⚙️ **DevOps & Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws&theme=light" />
+</div>
+
+### 🛠️ **Web & Database**
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql&theme=light" />
+</div>
+
+---
+
+## 🌿 GitHub Stats (Aesthetic)
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=calm&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=calm&hide_border=true" />
+
+</div>
+
+---
+
+## 🪴 Soft Skills  
+- ✨ Problem Solving  
+- 📌 Consistency  
+- 💭 Logical Thinking  
+- 🤝 Team Collaboration  
+
+---
+
+## 🍃 Socials  
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+### 🌼 *Thank you for visiting!*  
+*Have a beautiful day ✨*
+
+</div>
