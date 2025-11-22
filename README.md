@@ -32,6 +32,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql&theme=light" />
 </div>
 
+###  **Leetcode**
+<div>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sameergangurde71" alt="LeetCode Badges" />
+</div>
+
+
 ---
 
 
